@@ -1,0 +1,11 @@
+Mass Shooting Visualizations
+
+
+I was intrigued by recent events in the United States to see where mass shootings take place.
+I found a dataset on kaggle (https://www.kaggle.com/datasets/zusmani/us-mass-shootings-last-50-years)
+and created an interactive map displaying how severe and the location of the shootings.
+
+Libaries that I used included Geocoder, which I used to get the coordinates of a town and Geoviews
+for the visualization.
+
+Simply install the libraries and run the Jupyter Notebook then you should be able to see it!
